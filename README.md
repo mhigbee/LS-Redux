@@ -58,3 +58,10 @@ Topics:
 ## Extra Credit
  * Implement the ability to delete todo list items.  You can create a button next to each todo list item and when it is pressed it will call an action creator that will dispatch an action that removes the specified todo list item from the `todos` array.
  * Use `localStorage` to make the data persist.
+
+
+Current Error:
+
+Failed to compile
+./src/components/App.js
+Module not found: `/Users/matthigbee/Lambdaschool/LS-Redux/todo/src/containers/AddTodo.js` does not match the corresponding path on disk `AddToDo.js`.
